@@ -1,4 +1,4 @@
-# Oksana Kitaychik's Sample Class (Courant) Projects / Homeworks
+# Oksana Kitaychik's Samples:
 
 ### Project: Local Stochastic Volatility Model 
 
@@ -6,7 +6,7 @@ Source code: Python (provided as .ipynb and print-out/PDF copy)
 
 Project files: https://github.com/OksanaKitaychik/Samples/tree/master/LocalStochasticVolModel
 
-Description: Includes a detailed model and model validation description ("Local Stochastic Vol Model - Oksana_Kitaychik_HMW7_Model_Validation"). This model is an extension of both local volatility and stochastic volatility models. I implemented it using ‘particle method’ which builds on the chaos propagation theory and McKean non-linear stochastic differential equations. The code/description also contain a number of model validation steps (sensitivity checks, stress tests, model calibration examples, comparison to benchmark models etc.) 
+Description: Includes a detailed model and model validation description ("Local Stochastic Vol Model - Oksana_Kitaychik_..."). This model is an extension of both local volatility and stochastic volatility models. I implemented it using ‘particle method’ which builds on the chaos propagation theory and McKean non-linear stochastic differential equations. The code/description also contain a number of model validation steps (sensitivity checks, stress tests, model calibration examples, comparison to benchmark models etc.) 
 
 ### Project: K-Means and Modified Clustering
 
